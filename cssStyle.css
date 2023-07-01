@@ -1,0 +1,51 @@
+body{
+    background-color:  #009b7d ;
+    border: solid black 2px;
+    margin: 3%;
+}
+
+
+.boletín{
+    text-align: center;
+    font-family: cursive;
+    color: #cbcf00;
+    font-weight: bolder;
+    text-shadow: 3px 3px 5px  #043d32;
+}
+
+.fecha{
+    margin: 30px;
+    color: wheat;
+    font-family: cursive;
+    font-weight: bold;
+}
+
+.filtrar{
+    text-align: center;
+}
+
+.nombreEstudiante{
+    background-color: #009b7d;
+    border: solid black 2px;
+    border-radius: 20px;
+    padding: 15px;
+    width: 35%;
+    font-weight: bold;
+    color: #cbcf00;
+    font-family: cursive;
+    font-size: 15px;
+}
+
+.btnFiltrar{
+    position: relative;
+    left: -7.5%;
+    background-color: #009b7d;
+    border: none;
+    font-family: cursive;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.btnFiltrar:hover{
+    color: #043d32;
+}
