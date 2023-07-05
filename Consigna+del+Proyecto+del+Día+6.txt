@@ -1,4 +1,4 @@
-Seguimos aprendiendo elementos claves dentro del mundo JavaScript y hoy fue el turno de los loops. Con todo lo que has aprendido, te propongo un desafío: confeccionar un boletín estudiantil, o un resumen de calificaciones de un estudiante.
+	Seguimos aprendiendo elementos claves dentro del mundo JavaScript y hoy fue el turno de los loops. Con todo lo que has aprendido, te propongo un desafío: confeccionar un boletín estudiantil, o un resumen de calificaciones de un estudiante.
 
 La idea es que tu página tome un array con 5 calificaciones (tu vas a pre-establecer esas calificaciones al crear el programa), y el sitio va a mostrar 4 botones que realicen las siguientes funcionalidades:
 

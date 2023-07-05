@@ -34,6 +34,7 @@ body{
     color: #cbcf00;
     font-family: cursive;
     font-size: 15px;
+    margin-bottom: 50px;
 }
 
 .btnFiltrar{
@@ -49,3 +50,78 @@ body{
 .btnFiltrar:hover{
     color: #043d32;
 }
+
+.calificacionMasAlta{
+    margin: 3%;
+    padding: 10px;
+    border: solid black;
+    border-radius: 20px;
+    background-color: #cbcf00;
+    font-weight: bold;
+    font-family: cursive;
+}
+
+.calificacionMasAlta:hover{
+    color:#043d32;
+}
+
+.btns{
+    display: inline-block;
+
+}
+
+.itens{
+    display: block;
+    margin: 0 0 0% 30%;
+    font-weight: bolder;
+}
+
+
+
+.btnPromedio{
+    margin: 3%;
+    margin-top: 0.3%;
+    padding: 10px;
+    border: solid black;
+    border-radius: 20px;
+    background-color: #cbcf00;
+    font-weight: bold;
+    font-family: cursive;
+    display: block;
+}
+
+.todasCalificaciones{
+    margin: 3%;
+    margin-top: 0.3%;
+    padding: 10px;
+    border: solid black;
+    border-radius: 20px;
+    background-color: #cbcf00;
+    font-weight: bold;
+    font-family: cursive;
+    display: block; 
+}
+
+.inputResultado{
+    margin-right:0;
+    margin-bottom: 5%;
+    height: 70px;
+    width: 30%; 
+    display: flex;
+    position: absolute;
+    left: 32%;
+    top: 53%;
+    border-radius: 20px;
+    border: solid black;
+    text-align: center;
+    font-weight: bold;
+
+    
+}
+
+
+.contenedor {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+  }
