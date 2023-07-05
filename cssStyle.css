@@ -90,6 +90,10 @@ body{
     display: block;
 }
 
+.btnPromedio:hover{
+    color:#043d32;
+}
+
 .todasCalificaciones{
     margin: 3%;
     margin-top: 0.3%;
@@ -101,6 +105,27 @@ body{
     font-family: cursive;
     display: block; 
 }
+
+.todasCalificaciones:hover{
+    color:#043d32;
+}
+
+.btnAplazo{
+    margin: 3%;
+    margin-top: 0.3%;
+    padding: 10px;
+    border: solid black;
+    border-radius: 20px;
+    background-color: #cbcf00;
+    font-weight: bold;
+    font-family: cursive;
+    display: block; 
+}
+
+.btnAplazo:hover{
+    color:#043d32;
+}
+
 
 .inputResultado{
     margin-right:0;
